@@ -4,8 +4,6 @@
 
 Me chamo Sandro Melo Júnior e sou estudante do curso técnico integrado em Informática no IFAL. Sou apaixonado por tecnologia, desenvolvimento de software e inteligência artificial, sempre buscando transformar ideias em soluções úteis e inovadoras.
 
-Atualmente, participo de projetos de pesquisa voltados para tecnologia educacional e inteligência artificial aplicada à educação inclusiva, desenvolvendo ferramentas capazes de auxiliar professores na criação de materiais e planos de aula adaptados a diferentes perfis de aprendizagem.
-
 Tenho experiência com HTML, CSS, JavaScript e Python, além de estar constantemente estudando novas tecnologias, frameworks e boas práticas de desenvolvimento. Neste perfil compartilho projetos acadêmicos, experimentos, pesquisas e aplicações desenvolvidas ao longo da minha jornada como programador.
 
 <p align="left">
